@@ -1,6 +1,18 @@
 {
   "sent": [
     {
+      "date": "31/07/2026",
+      "date_iso": "2026-07-31",
+      "filename": "2026-07-31 GRUL11 Relat\u00f3rio Gerencial.pdf",
+      "id": "relatorios gerenciais|2026-07-31|https://www.icatuvanguarda.com.br/relatorios/documentos/ICATU VANGUARDA GRU LOG\u00cdSTICO FII RL - Relat\u00f3rios Gerenciais 2297",
+      "resend_email_id": "94a1eb9a-d496-4189-9d0d-5f93aabbf4b8",
+      "sent_at": "2026-08-11T14:58:20.470746+00:00",
+      "sha256": "207854b3477772b078abba7064941a1ffab0098a8d40562160cfb9a7815147b3",
+      "title": "Relat\u00f3rio Gerencial",
+      "type": "Relat\u00f3rios Gerenciais",
+      "url": "https://www.icatuvanguarda.com.br/relatorios/documentos/ICATU VANGUARDA GRU LOG\u00cdSTICO FII RL - Relat\u00f3rios Gerenciais 2297"
+    },
+    {
       "date": "30/07/2026",
       "date_iso": "2026-07-30",
       "filename": "2026-07-30 GRUL11 Fato Relevante.pdf",
@@ -337,5 +349,5 @@
       "url": "https://www.icatuvanguarda.com.br/relatorios/documentos/ICATU VANGUARDA GRU LOG\u00cdSTICO FII RL - Fatos Relevantes 11"
     }
   ],
-  "updated_at": "2026-08-04T16:12:14.320508+00:00"
+  "updated_at": "2026-08-11T14:58:20.470787+00:00"
 }
